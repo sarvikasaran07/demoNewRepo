@@ -1,1 +1,6 @@
 This is firstfile
+<<<<<<< HEAD
+=======
+this s secondline
+this is third line
+>>>>>>> branch1
