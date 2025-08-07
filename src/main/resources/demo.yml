@@ -1,0 +1,11 @@
+# .github/workflows/demo.yml
+
+on:
+  issues:
+   types: [opened,edited,milestoned]
+   	
+  pull_request:
+		types:
+	 - opened
+	 branches:
+	 - 'releases/**'
